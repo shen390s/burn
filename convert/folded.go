@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/spiermar/burn/types"
+	"github.com/shen390s/burn/types"
 )
 
 func reverse(strings []string) {

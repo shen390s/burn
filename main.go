@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/spiermar/burn/cmd"
+import "github.com/shen390s/burn/cmd"
 
 func main() {
 	cmd.Execute()

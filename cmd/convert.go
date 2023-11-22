@@ -20,8 +20,8 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/spiermar/burn/convert"
-	"github.com/spiermar/burn/types"
+	"github.com/shen390s/burn/convert"
+	"github.com/shen390s/burn/types"
 )
 
 var pretty bool
